@@ -1,2 +1,2 @@
 # leetcode-cpp
-leetcode cpp
+For fun
